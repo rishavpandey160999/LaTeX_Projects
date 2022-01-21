@@ -1,2 +1,1 @@
-# LaTeX_Projects
-This repository consists of all the documents which I prepare using LaTeX.
+# LaTeX_ProjectsThis repository consist of all the documents which I prepare using LaTeX.
