@@ -1,0 +1,102 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Mathew%
+\ \BBA {} Varia%
+}{%
+Mathew%
+\ \BBA {} Varia%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+mathew2014overview}
+\APACinsertmetastar {%
+mathew2014overview}%
+\begin{APACrefauthors}%
+Mathew, S.%
+\BCBT {}\ \BBA {} Varia, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Overview of amazon web services} {Overview of amazon web
+  services}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Amazon Whitepapers}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mishra%
+}{%
+Mishra%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+mishra2017amazon}
+\APACinsertmetastar {%
+mishra2017amazon}%
+\begin{APACrefauthors}%
+Mishra, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Amazon Web Services for Mobile Developers: Building Apps with
+  AWS} {Amazon web services for mobile developers: Building apps with aws}.
+\newblock
+\APACaddressPublisher{}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Varia%
+, Mathew%
+\BCBL {}\ \protect \BOthers {.}}{%
+Varia%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+varia2014overview}
+\APACinsertmetastar {%
+varia2014overview}%
+\begin{APACrefauthors}%
+Varia, J.%
+, Mathew, S.%
+\BCBL {}\ \BOthersPeriod {.}\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Overview of amazon web services} {Overview of amazon web
+  services}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Amazon Web Services}{105}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wittig%
+\ \BBA {} Wittig%
+}{%
+Wittig%
+\ \BBA {} Wittig%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+wittig2018amazon}
+\APACinsertmetastar {%
+wittig2018amazon}%
+\begin{APACrefauthors}%
+Wittig, M.%
+\BCBT {}\ \BBA {} Wittig, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Amazon web services in action} {Amazon web services in action}.
+\newblock
+\APACaddressPublisher{}{Simon and Schuster}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
