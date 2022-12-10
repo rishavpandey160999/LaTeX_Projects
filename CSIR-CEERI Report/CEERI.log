@@ -1,0 +1,686 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.5)  9 NOV 2022 16:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./CEERI.tex
+(CEERI.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-30>
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authbl
+k.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip49
+\@affilsep=\skip50
+\c@Maxaffil=\count193
+\c@authors=\count194
+\c@affil=\count195
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvs
+etkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\
+kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdf
+escape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor
+.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\let
+ltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook
+.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
+f.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcou
+nt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestrin
+g\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count196
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count197
+\Hy@pagecounter=\count198
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
+.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intca
+lc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etex
+cmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count199
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
+def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+\stockwidth=\dimen142
+\stockheight=\dimen143
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count266
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen144
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset
+.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bi
+gintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count267
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-l
+tx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count268
+\c@Item=\count269
+\c@Hfootnote=\count270
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdfte
+x.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-
+ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
+rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter
+\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip51
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 9.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpag
+es.sty
+Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen147
+\calc@Bdimen=\dimen148
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip54
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic
+.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen149
+\ESO@tempdimb=\dimen150
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.s
+ty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\ma
+thcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+\AM@pagewidth=\dimen151
+\AM@pageheight=\dimen152
+\AM@fboxrule=\dimen153
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdft
+ex.def
+File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count276
+\AM@pagebox=\box51
+\AM@global@opts=\toks17
+\AM@pagecnt=\count277
+\AM@toc@title=\toks18
+\c@AM@survey=\count278
+\AM@templatesizebox=\box52
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box53
+) (CEERI.aux)
+\openout1 = `CEERI.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count280
+\scratchdimen=\dimen154
+\scratchbox=\box54
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen155
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 26.
+ (CEERI.out) (CEERI.out)
+\@outlinefile=\write3
+\openout3 = `CEERI.out'.
+
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdfls
+cape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape
+.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 29.
+ [1
+
+{C:/Users/Rishav Pandey/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (CEE
+RI.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+)
+\tf@toc=\write4
+\openout4 = `CEERI.toc'.
+
+ [2
+
+] (CEERI.lof)
+\tf@lof=\write5
+\openout5 = `CEERI.lof'.
+
+ [3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--62
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--83
+
+ []
+
+[5
+
+]
+
+pdfTeX warning: pdflatex (file ./CSIR_CEERI_Certificate.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<CSIR_CEERI_Certificate.pdf, id=102, 597.6729pt x 844.83629pt>
+File: CSIR_CEERI_Certificate.pdf Graphic file (type pdf)
+<use CSIR_CEERI_Certificate.pdf>
+Package pdftex.def Info: CSIR_CEERI_Certificate.pdf  used on input line 86.
+(pdftex.def)             Requested size: 597.67143pt x 844.83423pt.
+
+
+pdfTeX warning: pdflatex (file ./CSIR_CEERI_Certificate.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+File: CSIR_CEERI_Certificate.pdf Graphic file (type pdf)
+<use CSIR_CEERI_Certificate.pdf>
+Package pdftex.def Info: CSIR_CEERI_Certificate.pdf  used on input line 86.
+(pdftex.def)             Requested size: 597.67143pt x 844.83423pt.
+
+
+pdfTeX warning: pdflatex (file ./CSIR_CEERI_Certificate.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./CSIR_CEERI_Certificate.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<CSIR_CEERI_Certificate.pdf, id=105, page=1, 597.6729pt x 844.83629pt>
+File: CSIR_CEERI_Certificate.pdf Graphic file (type pdf)
+<use CSIR_CEERI_Certificate.pdf, page 1>
+Package pdftex.def Info: CSIR_CEERI_Certificate.pdf , page1 used on input line 
+86.
+(pdftex.def)             Requested size: 597.67143pt x 844.83423pt.
+File: CSIR_CEERI_Certificate.pdf Graphic file (type pdf)
+<use CSIR_CEERI_Certificate.pdf, page 1>
+Package pdftex.def Info: CSIR_CEERI_Certificate.pdf , page1 used on input line 
+86.
+(pdftex.def)             Requested size: 562.94345pt x 795.74474pt.
+File: CSIR_CEERI_Certificate.pdf Graphic file (type pdf)
+<use CSIR_CEERI_Certificate.pdf, page 1>
+Package pdftex.def Info: CSIR_CEERI_Certificate.pdf , page1 used on input line 
+86.
+(pdftex.def)             Requested size: 562.94345pt x 795.74474pt.
+File: CSIR_CEERI_Certificate.pdf Graphic file (type pdf)
+<use CSIR_CEERI_Certificate.pdf, page 1>
+Package pdftex.def Info: CSIR_CEERI_Certificate.pdf , page1 used on input line 
+86.
+(pdftex.def)             Requested size: 562.94345pt x 795.74474pt.
+File: CSIR_CEERI_Certificate.pdf Graphic file (type pdf)
+<use CSIR_CEERI_Certificate.pdf, page 1>
+Package pdftex.def Info: CSIR_CEERI_Certificate.pdf , page1 used on input line 
+86.
+(pdftex.def)             Requested size: 562.94345pt x 795.74474pt.
+[6
+
+ <./CSIR_CEERI_Certificate.pdf>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 112.
+ [7] [8] [9
+
+]
+<Images//Beer.png, id=209, 632.3625pt x 423.4365pt>
+File: Images//Beer.png Graphic file (type png)
+<use Images//Beer.png>
+Package pdftex.def Info: Images//Beer.png  used on input line 162.
+(pdftex.def)             Requested size: 442.65074pt x 296.40352pt.
+
+Overfull \hbox (52.65074pt too wide) in paragraph at lines 162--163
+ [][] 
+ []
+
+<Images//lambert.jpg, id=211, 493.7355pt x 419.4945pt>
+File: Images//lambert.jpg Graphic file (type jpg)
+<use Images//lambert.jpg>
+Package pdftex.def Info: Images//lambert.jpg  used on input line 168.
+(pdftex.def)             Requested size: 345.61249pt x 293.64413pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./Images//Beer.png>]
+<Images//NDIR.jpg, id=221, 608.2725pt x 246.9225pt>
+File: Images//NDIR.jpg Graphic file (type jpg)
+<use Images//NDIR.jpg>
+Package pdftex.def Info: Images//NDIR.jpg  used on input line 177.
+(pdftex.def)             Requested size: 425.78786pt x 172.84456pt.
+
+Overfull \hbox (35.78786pt too wide) in paragraph at lines 177--178
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./Images//lambert.jpg>]
+<Images//NDIR1.jpg, id=226, 630.1944pt x 204.765pt>
+File: Images//NDIR1.jpg Graphic file (type jpg)
+<use Images//NDIR1.jpg>
+Package pdftex.def Info: Images//NDIR1.jpg  used on input line 185.
+(pdftex.def)             Requested size: 441.13307pt x 143.3345pt.
+
+Overfull \hbox (51.13307pt too wide) in paragraph at lines 185--186
+ [][] 
+ []
+
+[12 <./Images//NDIR.jpg> <./Images//NDIR1.jpg>]
+<Images//absorption spectrum.png, id=233, 722.82045pt x 364.12035pt>
+File: Images//absorption spectrum.png Graphic file (type png)
+<use Images//absorption spectrum.png>
+Package pdftex.def Info: Images//absorption spectrum.png  used on input line 19
+4.
+(pdftex.def)             Requested size: 397.55247pt x 200.2668pt.
+
+Overfull \hbox (7.55247pt too wide) in paragraph at lines 194--195
+ [][] 
+ []
+
+[13 <./Images//absorption spectrum.png>]
+<Images//NDIR gas sensor with pyro.png, id=242, 773.89125pt x 389.65575pt>
+File: Images//NDIR gas sensor with pyro.png Graphic file (type png)
+<use Images//NDIR gas sensor with pyro.png>
+Package pdftex.def Info: Images//NDIR gas sensor with pyro.png  used on input l
+ine 234.
+(pdftex.def)             Requested size: 386.94467pt x 194.8274pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14]
+<Images//gas response.png, id=253, 646.21425pt x 541.42274pt>
+File: Images//gas response.png Graphic file (type png)
+<use Images//gas response.png>
+Package pdftex.def Info: Images//gas response.png  used on input line 263.
+(pdftex.def)             Requested size: 323.10632pt x 270.71071pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images//CO2 gas response in presence of N2.png, id=254, 389.0535pt x 340.8735p
+t>
+File: Images//CO2 gas response in presence of N2.png Graphic file (type png)
+<use Images//CO2 gas response in presence of N2.png>
+Package pdftex.def Info: Images//CO2 gas response in presence of N2.png  used o
+n input line 270.
+(pdftex.def)             Requested size: 194.52626pt x 170.43633pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./Images//NDIR gas sensor with pyro.png>] [16 <./Images//gas response.png>
+ <./Images//CO2 gas response in presence of N2.png>]
+<Images//CO2 gas resp in presence of SA.png, id=264, 393.26926pt x 332.442pt>
+File: Images//CO2 gas resp in presence of SA.png Graphic file (type png)
+<use Images//CO2 gas resp in presence of SA.png>
+Package pdftex.def Info: Images//CO2 gas resp in presence of SA.png  used on in
+put line 279.
+(pdftex.def)             Requested size: 196.63414pt x 166.22058pt.
+ [17
+
+ <./Images//CO2 gas resp in presence of SA.png>] [18] (CEERI.bbl) [19
+
+] (CEERI.aux)
+Package rerunfilecheck Info: File `CEERI.out' has not changed.
+(rerunfilecheck)             Checksum: 70A4C2E3B5C4AC406A33C959C420575C;1259.
+ ) 
+Here is how much of TeX's memory you used:
+ 9736 strings out of 475389
+ 159034 string characters out of 2773188
+ 501937 words of memory out of 3000000
+ 30930 multiletter control sequences out of 15000+600000
+ 476295 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,17n,77p,787b,566s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Rishav Pandey\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1200.pk><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rishav Pandey/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Ri
+shav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12
+.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rishav Pandey/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Rishav Pandey/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/R
+ishav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb>
+Output written on CEERI.pdf (19 pages, 5654778 bytes).
+PDF statistics:
+ 336 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
+

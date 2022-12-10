@@ -1,0 +1,910 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.19)  30 JUL 2022 20:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Research Paper.tex"
+(Research Paper.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvs
+etkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\
+kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdf
+escape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor
+.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\let
+ltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook
+.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count191
+\Hy@pagecounter=\count192
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
+.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intca
+lc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etex
+cmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count193
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
+def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count194
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen142
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset
+.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bi
+gintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count195
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-l
+tx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count196
+\c@Item=\count197
+\c@Hfootnote=\count198
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdfte
+x.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-
+ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count199
+\c@bookmark@seq@number=\count266
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
+rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter
+\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 8.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authbl
+k.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip50
+\@affilsep=\skip51
+\c@Maxaffil=\count267
+\c@authors=\count268
+\c@affil=\count269
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcapt
+ion.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen145
+\captionmargin@=\dimen146
+\captionwidth=\dimen147
+\caption@tempdima=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count270
+\c@continuedfloat=\count271
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count272
+\c@subtable=\count273
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty
+.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box50
+) (Research Paper.aux)
+\openout1 = `"Research Paper.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count275
+\scratchdimen=\dimen152
+\scratchbox=\box51
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen153
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks18
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.
+sty
+Package: color 2021/10/11 v1.3b Standard LaTeX Color (DPC)
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\co
+lor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 38.
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
+f.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcou
+nt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Rishav Pandey\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestrin
+g\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count281
+)
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
+ (Research Paper.out) (Research Paper.out)
+\@outlinefile=\write3
+\openout3 = `"Research Paper.out"'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 44.
+ [1
+
+{C:/Users/Rishav Pandey/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<JINR graphs//MASHA.png, id=134, 621.522pt x 302.93175pt>
+File: JINR graphs//MASHA.png Graphic file (type png)
+<use JINR graphs//MASHA.png>
+Package pdftex.def Info: JINR graphs//MASHA.png  used on input line 59.
+(pdftex.def)             Requested size: 372.91608pt x 181.76044pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<JINR graphs//Rotating Target.jpg, id=140, 264.4425pt x 198.414pt>
+File: JINR graphs//Rotating Target.jpg Graphic file (type jpg)
+<use JINR graphs//Rotating Target.jpg>
+Package pdftex.def Info: JINR graphs//Rotating Target.jpg  used on input line 7
+5.
+(pdftex.def)             Requested size: 141.47736pt x 106.15195pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 78.
+<JINR graphs//HC.png, id=141, 301.72725pt x 250.536pt>
+File: JINR graphs//HC.png Graphic file (type png)
+<use JINR graphs//HC.png>
+Package pdftex.def Info: JINR graphs//HC.png  used on input line 82.
+(pdftex.def)             Requested size: 161.42477pt x 134.03734pt.
+[2]
+<JINR graphs//TBHC.png, id=150, 329.814pt x 213.525pt>
+File: JINR graphs//TBHC.png Graphic file (type png)
+<use JINR graphs//TBHC.png>
+Package pdftex.def Info: JINR graphs//TBHC.png  used on input line 94.
+(pdftex.def)             Requested size: 230.86821pt x 149.46646pt.
+ [3 <./JINR graphs//MASHA.png> <./JINR graphs//Rotating Target.jpg> <./JINR gra
+phs//HC.png>]
+<JINR graphs//Detector.png, id=168, 797.98125pt x 432.4155pt>
+File: JINR graphs//Detector.png Graphic file (type png)
+<use JINR graphs//Detector.png>
+Package pdftex.def Info: JINR graphs//Detector.png  used on input line 111.
+(pdftex.def)             Requested size: 296.84352pt x 160.85558pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./JINR graphs//TBHC.png>] [5 <./JINR graphs//Detector.png>]
+Overfull \hbox (20.3912pt too wide) in paragraph at lines 138--138
+\OT1/cmr/bx/n/12 TOPES US-ING FULL-FUSION RE-AC-TION $[]\OML/cmm/m/it/12 Sm\OT1
+/cmr/m/n/12 ([]\OML/cmm/m/it/12 Ar; xn\OT1/cmr/m/n/12 )[]\OML/cmm/m/it/12 Hg$ 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 138.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 138.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 138.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 138.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 138.
+
+
+Overfull \hbox (6.44391pt too wide) in paragraph at lines 139--140
+\OT1/cmr/m/n/10.95 The com-plete fu-sion re-ac-tion of $[]\OML/cmm/m/it/10.95 S
+m\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 Ar; xn\OT1/cmr/m/n/10.95 )[]\OML/cmm
+/m/it/10.95 Hg$ \OT1/cmr/m/n/10.95 was car-ried out at MASHA
+ []
+
+[6]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 141.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 141.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 141.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 141.
+
+<JINR graphs//Hg180.png, id=192, 845.559pt x 227.6505pt>
+File: JINR graphs//Hg180.png Graphic file (type png)
+<use JINR graphs//Hg180.png>
+Package pdftex.def Info: JINR graphs//Hg180.png  used on input line 144.
+(pdftex.def)             Requested size: 422.77847pt x 113.82497pt.
+
+Overfull \hbox (32.77847pt too wide) in paragraph at lines 144--145
+ [][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 145.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 152.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 152.
+
+<JINR graphs//Hg181.png, id=193, 795.57225pt x 225.84375pt>
+File: JINR graphs//Hg181.png Graphic file (type png)
+<use JINR graphs//Hg181.png>
+Package pdftex.def Info: JINR graphs//Hg181.png  used on input line 155.
+(pdftex.def)             Requested size: 397.78514pt x 112.92159pt.
+
+Overfull \hbox (7.78514pt too wide) in paragraph at lines 155--156
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./JINR graphs//Hg180.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 163.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 163.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 163.
+
+<JINR graphs//Hg182.png, id=204, 774.4935pt x 227.04825pt>
+File: JINR graphs//Hg182.png Graphic file (type png)
+<use JINR graphs//Hg182.png>
+Package pdftex.def Info: JINR graphs//Hg182.png  used on input line 166.
+(pdftex.def)             Requested size: 379.50513pt x 111.25461pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 173.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 173.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 173.
+
+<JINR graphs//Hg183.png, id=206, 692.5875pt x 230.66174pt>
+File: JINR graphs//Hg183.png Graphic file (type png)
+<use JINR graphs//Hg183.png>
+Package pdftex.def Info: JINR graphs//Hg183.png  used on input line 176.
+(pdftex.def)             Requested size: 339.37083pt x 113.02522pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 184.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 184.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 184.
+
+<JINR graphs//Hg184.png, id=208, 684.75826pt x 227.04825pt>
+File: JINR graphs//Hg184.png Graphic file (type png)
+<use JINR graphs//Hg184.png>
+Package pdftex.def Info: JINR graphs//Hg184.png  used on input line 187.
+(pdftex.def)             Requested size: 335.53448pt x 111.25461pt.
+[8 <./JINR graphs//Hg181.png> <./JINR graphs//Hg182.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 195.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 195.
+
+[9 <./JINR graphs//Hg183.png> <./JINR graphs//Hg184.png>]
+<JINR graphs//Hg185.png, id=223, 778.107pt x 224.63925pt>
+File: JINR graphs//Hg185.png Graphic file (type png)
+<use JINR graphs//Hg185.png>
+Package pdftex.def Info: JINR graphs//Hg185.png  used on input line 201.
+(pdftex.def)             Requested size: 404.61797pt x 116.81306pt.
+
+Overfull \hbox (14.61797pt too wide) in paragraph at lines 201--202
+ [][] 
+ []
+
+<JINR graphs//Heatmap_Hg.png, id=224, 601.64775pt x 436.029pt>
+File: JINR graphs//Heatmap_Hg.png Graphic file (type png)
+<use JINR graphs//Heatmap_Hg.png>
+Package pdftex.def Info: JINR graphs//Heatmap_Hg.png  used on input line 211.
+(pdftex.def)             Requested size: 300.82314pt x 218.01396pt.
+[10
+
+ <./JINR graphs//Hg185.png> <./JINR graphs//Heatmap_Hg.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 239.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (7.24396pt too wide) in paragraph at lines 243--243
+[]\OT1/cmr/bx/n/12 SPECTROSCOPIC IN-VES-TI-GA-TION OF RADON ISO-TOPES
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 243.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 247.
+
+<JINR graphs//Rn201.png, id=232, 771.48225pt x 208.3785pt>
+File: JINR graphs//Rn201.png Graphic file (type png)
+<use JINR graphs//Rn201.png>
+Package pdftex.def Info: JINR graphs//Rn201.png  used on input line 250.
+(pdftex.def)             Requested size: 385.74017pt x 104.18898pt.
+[11 <./JINR graphs//Rn201.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 258.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 258.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 258.
+
+<JINR graphs//Rn202.png, id=242, 731.1315pt x 229.45724pt>
+File: JINR graphs//Rn202.png Graphic file (type png)
+<use JINR graphs//Rn202.png>
+Package pdftex.def Info: JINR graphs//Rn202.png  used on input line 261.
+(pdftex.def)             Requested size: 365.56485pt x 114.72833pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 269.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 269.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 269.
+
+<JINR graphs//Rn203.png, id=244, 723.9045pt x 217.41225pt>
+File: JINR graphs//Rn203.png Graphic file (type png)
+<use JINR graphs//Rn203.png>
+Package pdftex.def Info: JINR graphs//Rn203.png  used on input line 272.
+(pdftex.def)             Requested size: 361.95135pt x 108.70584pt.
+[12 <./JINR graphs//Rn202.png> <./JINR graphs//Rn203.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 279.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 279.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 279.
+
+<JINR graphs//Rn204.png, id=251, 667.293pt x 218.0145pt>
+File: JINR graphs//Rn204.png Graphic file (type png)
+<use JINR graphs//Rn204.png>
+Package pdftex.def Info: JINR graphs//Rn204.png  used on input line 282.
+(pdftex.def)             Requested size: 333.64568pt x 109.00697pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 289.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 289.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 289.
+
+<JINR graphs//Rn205.png, id=253, 709.4505pt x 202.356pt>
+File: JINR graphs//Rn205.png Graphic file (type png)
+<use JINR graphs//Rn205.png>
+Package pdftex.def Info: JINR graphs//Rn205.png  used on input line 292.
+(pdftex.def)             Requested size: 354.72438pt x 101.17775pt.
+[13 <./JINR graphs//Rn204.png> <./JINR graphs//Rn205.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 299.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 299.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 299.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 299.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 299.
+
+<JINR graphs//Heatmap_Rn(201-205).png, id=263, 578.76225pt x 442.0515pt>
+File: JINR graphs//Heatmap_Rn(201-205).png Graphic file (type png)
+<use JINR graphs//Heatmap_Rn(201-205).png>
+Package pdftex.def Info: JINR graphs//Heatmap_Rn(201-205).png  used on input li
+ne 305.
+(pdftex.def)             Requested size: 289.38042pt x 221.0252pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 331.
+See the caption package documentation for explanation.
+
+[14 <./JINR graphs//Heatmap_Rn(201-205).png>]
+Overfull \hbox (7.24396pt too wide) in paragraph at lines 335--335
+[]\OT1/cmr/bx/n/12 SPECTROSCOPIC IN-VES-TI-GA-TION OF RADON ISO-TOPES
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 335.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 339.
+
+<JINR graphs//Rn212.png, id=271, 673.3155pt x 216.81pt>
+File: JINR graphs//Rn212.png Graphic file (type png)
+<use JINR graphs//Rn212.png>
+Package pdftex.def Info: JINR graphs//Rn212.png  used on input line 342.
+(pdftex.def)             Requested size: 336.65692pt x 108.40472pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 351.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 351.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 351.
+
+[15 <./JINR graphs//Rn212.png>]
+<JINR graphs//Rn218.png, id=279, 697.4055pt x 308.95425pt>
+File: JINR graphs//Rn218.png Graphic file (type png)
+<use JINR graphs//Rn218.png>
+Package pdftex.def Info: JINR graphs//Rn218.png  used on input line 357.
+(pdftex.def)             Requested size: 348.70189pt x 154.47675pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 364.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 364.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 364.
+
+<JINR graphs//Rn219.png, id=281, 681.747pt x 203.5605pt>
+File: JINR graphs//Rn219.png Graphic file (type png)
+<use JINR graphs//Rn219.png>
+Package pdftex.def Info: JINR graphs//Rn219.png  used on input line 367.
+(pdftex.def)             Requested size: 340.87265pt x 101.78pt.
+[16 <./JINR graphs//Rn218.png> <./JINR graphs//Rn219.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 375.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 375.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 375.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 375.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 375.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 375.
+
+<JINR graphs//Heatmap_Rn(212,218,219).png, id=290, 592.614pt x 429.40425pt>
+File: JINR graphs//Heatmap_Rn(212,218,219).png Graphic file (type png)
+<use JINR graphs//Heatmap_Rn(212,218,219).png>
+Package pdftex.def Info: JINR graphs//Heatmap_Rn(212,218,219).png  used on inpu
+t line 379.
+(pdftex.def)             Requested size: 296.30627pt x 214.70158pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 399.
+See the caption package documentation for explanation.
+
+[17 <./JINR graphs//Heatmap_Rn(212,218,219).png>] (Research Paper.bbl
+Underfull \hbox (badness 1087) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/10.95 V. Y. Ve-de-neev, A. Rodin, L. Krupa, A. Be-loze-rov, E. C
+herny-sheva,
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 22--26
+[]\OT1/cmr/m/n/10.95 A. Rodin, A. Be-loze-rov, E. Cherny-sheva, S. Dmitriev, A.
+ Gulyaev,
+ []
+
+[18]) [19] (Research Paper.aux)
+Package rerunfilecheck Info: File `"Research Paper".out' has not changed.
+(rerunfilecheck)             Checksum: 0EB229DA7BB51683173CE193C4CACB25;6193.
+ ) 
+Here is how much of TeX's memory you used:
+ 10138 strings out of 478659
+ 171955 string characters out of 2842092
+ 464708 words of memory out of 3000000
+ 28035 multiletter control sequences out of 15000+600000
+ 410784 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,10n,77p,1307b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Rishav Pandey\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1095.pk><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Rishav Pandey/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/Ris
+hav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.p
+fb><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Rishav Pandey/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Rishav Pandey/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/
+Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Rishav Pandey/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Rishav Pandey/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/
+Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb><C:/Users/Rishav Pandey/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb>
+Output written on "Research Paper.pdf" (19 pages, 1294319 bytes).
+PDF statistics:
+ 396 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 343 words of extra memory for PDF output out of 10000 (max. 10000000)
+

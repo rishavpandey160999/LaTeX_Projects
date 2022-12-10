@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{vedeneev2017current}
+V.~Y. Vedeneev, A.~Rodin, L.~Krupa, A.~Belozerov, E.~Chernysheva, S.~Dmitriev,
+  A.~Gulyaev, A.~Gulyaeva, D.~Kamas, J.~Kliman, et~al., The current status of
+  the masha setup, Hyperfine Interactions 238~(1) (2017) 1--14.
+
+\bibitem{mamatova2019study}
+M.~Mamatova, A.~Seitkali, E.~Kudaibergenova, A.~Rodin, L.~Krupa,
+  E.~Chernysheva, V.~Vedeneev, A.~Novoselov, A.~Podshibyakin, V.~Salamatin,
+  et~al., Study of production stability of radon and mercury isotopes in
+  complete fusion reactions at the mass-separator masha by “solid hot
+  catcher” technique, in: AIP Conference Proceedings, Vol. 2163, AIP
+  Publishing LLC, 2019, p. 070002.
+
+\bibitem{rodin2014separation}
+A.~Rodin, A.~Belozerov, E.~Chernysheva, S.~Dmitriev, A.~Gulyaev, A.~Gulyaeva,
+  M.~Itkis, J.~Kliman, N.~Kondratiev, L.~Krupa, et~al., Separation efficiency
+  of the masha facility for short-lived mercury isotopes, Hyperfine
+  Interactions 227~(1) (2014) 209--221.
+
+\bibitem{rodin2014masha}
+A.~Rodin, A.~Belozerov, D.~Vanin, V.~Y. Vedeneyev, A.~Gulyaev, A.~Gulyaeva,
+  S.~Dmitriev, M.~Itkis, J.~Kliman, N.~Kondratiev, et~al., Masha separator on
+  the heavy ion beam for determining masses and nuclear physical properties of
+  isotopes of heavy and superheavy elements, Instruments and Experimental
+  Techniques 57~(4) (2014) 386--393.
+
+\bibitem{rodin2020features}
+A.~Rodin, E.~Chernysheva, S.~Dmitriev, A.~Gulyaev, D.~Kamas, J.~Kliman,
+  L.~Krupa, A.~Novoselov, Y.~T. Oganessian, A.~Op{\'\i}chal, et~al., Features
+  of the solid-state isol method for fusion evaporation reactions induced by
+  heavy ions, in: Exotic Nuclei: Proceedings of the International Symposium on
+  Exotic Nuclei, World Scientific, 2020, pp. 437--443.
+
+\end{thebibliography}
