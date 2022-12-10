@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}INTRODUCTION}{3}{section.1}%
+\contentsline {section}{\numberline {2}NICA FACILITY}{3}{section.2}%
+\contentsline {section}{\numberline {3}SPD DETECTOR}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}CENTRAL TRACKER}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}STRAW TRACKER}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}TIME OF FLIGHT DETECTOR}{7}{subsection.3.3}%
+\contentsline {section}{\numberline {4}EVENT GENERATION}{7}{section.4}%
+\contentsline {section}{\numberline {5}DETECTOR SIMULATION AND EVENT RECONSTRUCTION}{11}{section.5}%
+\contentsline {section}{\numberline {6}ANALYSIS}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}CHARGED TRACK MULTIPLICITY}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}PION MOMENTUM SPECTRUM ($^{12}C-{^{12}C}$)}{11}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}KAON MOMENTUM SPECTRUM ($^{12}C-{^{12}C}$)}{13}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}PROTON MOMENTUM SPECTRUM ($^{12}C-{^{12}C}$)}{14}{subsection.6.4}%
+\contentsline {section}{\numberline {7}SUMMARY}{15}{section.7}%

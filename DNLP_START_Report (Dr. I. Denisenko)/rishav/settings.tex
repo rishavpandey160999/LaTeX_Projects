@@ -1,0 +1,96 @@
+%%%%%%%%%%%%%%%%%%
+% Базовые пакеты %
+%%%%%%%%%%%%%%%%%%
+
+\usepackage{amsmath, amsthm, amssymb, calrsfs, wasysym, verbatim, bbm, color, graphicx, geometry}
+\usepackage{wrapfig, esvect, txfonts}
+
+\usepackage[symbol*]{footmisc}
+
+\geometry{tmargin = 20mm, bmargin = 20mm, lmargin = 20mm, rmargin = 20mm}
+\linespread{1.2}
+
+\usepackage[section]{placeins} % для комманды \FloatBarrier, которая ограничевает возможную область размещения плавающих объектов (таблиц и рисунков)
+
+\usepackage{subcaption} % для создания блоков в рисунках
+
+\usepackage{hyperref} % для гиперссылок
+
+%%%%%%%%%%%%%%%%%%%%%%%
+% Настройка нумерации %
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{section}{0} % Начать нумерацию секций с 4
+
+\renewcommand{\thefigure}{\arabic{section}.\arabic{subsection}.\arabic{figure}}
+\renewcommand{\thetable}{\arabic{section}.\arabic{subsection}.\arabic{table}}
+\renewcommand{\theequation}{\arabic{section}.\arabic{subsection}.\arabic{equation}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Делаем красивые листинги %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+%%%%%%%%%%%%%%%%%%%%%
+% Настройка шрифтов %
+%%%%%%%%%%%%%%%%%%%%%
+ 
+\usepackage{mathspec}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage{polyglossia}
+\usepackage{ucharclasses}
+\usepackage{microtype} % better management of overfulls
+\setdefaultlanguage{english}
+\setotherlanguage{english}
+%\setkeys{english}{babelshorthands=true}
+
+\setmainfont{PT Serif}
+\setromanfont{PT Serif} 
+\setsansfont{PT Serif}
+\setmonofont{PT Mono}
+%% Дружим пакеты poliglossia и mathspec (иначе XeLaTeX зависнет!!!)
+\makeatletter
+\begingroup
+  \catcode`\"=\active
+  \AtBeginDocument{\let"=\eu@active@quote}
+\endgroup
+\makeatother
+%%
+
+%% Устанавливаем шрифт для греческих букв
+% \usepackage{mathspec}
+%  \setmathsfont(Greek)[Numbers={Lining,Proportional}, Lowercase=Regular]{Ubuntu}
+%  \setallmainfonts[Mapping=tex-text, Numbers={Lining,Proportional}]{PT Serif}
+
+%%%%%%%%%%%%%%%%%%%%%%
