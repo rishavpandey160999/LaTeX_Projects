@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{abramov2021possible}
+V.~Abramov, A.~Aleshko, V.~Baskov, E.~Boos, V.~Bunichev, O.~Dalkarov,
+  R.~El-Kholy, A.~Galoyan, A.~Guskov, V.~Kim, et~al., Possible studies at the
+  first stage of the nica collider operation with polarized and unpolarized
+  proton and deuteron beams, Physics of Particles and Nuclei 52~(6) (2021)
+  1044--1119.
+
+\bibitem{kekelidze2017feasibility}
+V.~Kekelidze, A.~Kovalenko, R.~Lednicky, V.~Matveev, I.~Meshkov, A.~Sorin,
+  G.~Trubnikov, Feasibility study of heavy-ion collision physics at nica jinr,
+  Nuclear Physics A 967 (2017) 884--887.
+
+\bibitem{guskov2021spin}
+A.~Guskov, Spin physics detector project at jinr, arXiv preprint
+  arXiv:2110.08930 (2021).
+
+\bibitem{kekelidze2017nica}
+V.~Kekelidze, Nica project at jinr: status and prospects, Journal of
+  Instrumentation 12~(06) (2017) C06012.
+
+\bibitem{arbuzov2021physics}
+A.~Arbuzov, A.~Bacchetta, M.~Butenschoen, F.~Celiberto, U.~D’alesio, M.~Deka,
+  I.~Denisenko, M.~Echevarria, A.~Efremov, N.~Y. Ivanov, et~al., On the physics
+  potential to study the gluon content of proton and deuteron at nica spd,
+  Progress in Particle and Nuclear Physics 119 (2021) 103858.
+
+\bibitem{kekelidze2013project}
+V.~Kekelidze, A.~Kovalenko, R.~Lednick{\`y}, V.~Matveev, I.~Meshkov, A.~Sorin,
+  G.~Trubnikov, Project nica at jinr, Nuclear Physics A 904 (2013) 945c--948c.
+
+\bibitem{abazov2021conceptual}
+V.~Abazov, V.~Abramov, L.~Afanasyev, R.~Akhunzyanov, A.~Akindinov, N.~Akopov,
+  I.~Alekseev, A.~Aleshko, V.~Y. Alexakhin, G.~Alexeev, et~al., Conceptual
+  design of the spin physics detector, arXiv preprint arXiv:2102.00442 (2021).
+
+\bibitem{volkov2019straw}
+V.~Y. Volkov, P.~Volkov, T.~Enik, G.~Kekelidze, V.~Kramarenko, V.~Lysan,
+  D.~Peshekhonov, A.~Solin, A.~Solin, Straw chambers for the na64 experiment,
+  Physics of Particles and Nuclei Letters 16~(6) (2019) 847--858.
+
+\bibitem{acciarri2016long}
+R.~Acciarri, M.~Acero, M.~Adamowski, C.~Adams, P.~Adamson, S.~Adhikari,
+  Z.~Ahmad, C.~Albright, T.~Alion, E.~Amador, et~al., Long-baseline neutrino
+  facility (lbnf) and deep underground neutrino experiment (dune) conceptual
+  design report, volume 4 the dune detectors at lbnf, arXiv preprint
+  arXiv:1601.02984 (2016).
+
+\end{thebibliography}

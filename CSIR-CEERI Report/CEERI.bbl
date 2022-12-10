@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{ng2021ndir}
+D.~K.~T. Ng, C.~P. Ho, L.~Xu, W.~Chen, Y.~H. Fu, T.~Zhang, L.~Y. Siow,
+  N.~Jaafar, E.~J. Ng, Y.~Gao, et~al., Ndir co2 gas sensing using cmos
+  compatible mems scaln-based pyroelectric detector, Sensors and Actuators B:
+  Chemical 346 (2021) 130437.
+
+\bibitem{ranacher2019cmos}
+C.~Ranacher, C.~Consani, A.~Tortschanoff, L.~Rauter, D.~Holzmann, C.~Fleury,
+  G.~Stocker, A.~Fant, H.~Schaunig, P.~Irsigler, et~al., A cmos compatible
+  pyroelectric mid-infrared detector based on aluminium nitride, Sensors
+  19~(11) (2019) 2513.
+
+\bibitem{hyseni2010analysis}
+G.~Hyseni, N.~Caka, K.~Hyseni, Analysis of mwir infrared pyroelectric detectors
+  parameters, in: Proceedings of the 5th WSEAS International Conference on
+  Optics, Astrophysics, Astronomy (ICOAA ‘10), University of Cambridge, UK,
+  2010.
+
+\bibitem{odon2010modelling}
+A.~Odon, Modelling and simulation of the pyroelectric detector using
+  matlab/simulink, Measurement Science Review 10~(6) (2010) 195.
+
+\bibitem{tan2020non}
+X.~Tan, H.~Zhang, J.~Li, H.~Wan, Q.~Guo, H.~Zhu, H.~Liu, F.~Yi, Non-dispersive
+  infrared multi-gas sensing via nanoantenna integrated narrowband detectors,
+  Nature communications 11~(1) (2020) 1--9.
+
+\end{thebibliography}
